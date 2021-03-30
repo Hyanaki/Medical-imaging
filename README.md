@@ -1,4 +1,4 @@
-Medical-Imaging is a course I attend when I was student in France.
+Medical-Imaging is a course I attended when I was student in France.
 For this course, we had the opportunity to work on several projects:
 
 # Image segmentation
